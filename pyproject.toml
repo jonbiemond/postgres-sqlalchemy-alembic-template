@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Jonathan Biemond <jonbiemond@gmail.com>"]
 readme = "README.md"
-packages = [{include = "db_template"}]
+packages = [{include = "project"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
